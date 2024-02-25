@@ -1,0 +1,4 @@
+You have to search an image, text or a video regarding birds and from that you have to fetch the features in a bird, 
+there can be many features, but you have to select limited one, like for example in human being example, we got
+weight and height, then you have apply the instance learning concept as well as concept learning an you have to 
+show some of the outputs as in slide number 3.
