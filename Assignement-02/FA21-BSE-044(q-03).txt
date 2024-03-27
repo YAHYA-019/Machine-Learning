@@ -1,0 +1,11 @@
+Question: 03
+
+Question 1 - Classification Task:
+Explored and trained baseline J48 and Random Forest classifiers on the "Datasaurus Dozen" dataset.
+Tuned model parameters using Random and Grid search methods for improved classification accuracy.
+Experience provided insights into data exploration, model training, and hyperparameter tuning in classification tasks.
+
+Question 2 - Regression Task:
+Worked with the "Used Cars Prices" dataset, training baseline Decision Tree Regressor for regression task.
+Employed Random and Grid search methods to optimize model parameters for better prediction accuracy.
+Experience enhanced understanding of data preparation, model training, and parameter tuning in regression tasks.
